@@ -1,6 +1,6 @@
 <div class="login">
     <h2>Login</h2>
-
+    <p *ngIf="isLoginFailed" class="error-message">Logowanie nie powiodło się!</p>
     <form (ngSubmit)="login()" #form="ngForm">
         <div class="form-group">
             <label for="username">Użytkownik: </label>

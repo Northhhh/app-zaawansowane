@@ -7,7 +7,7 @@ describe('LoginComponent', () => {
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [LoginComponent]
+      imports: [LoginComponent]
     });
 
     fixture = TestBed.createComponent(LoginComponent);
@@ -43,8 +43,8 @@ describe('LoginComponent', () => {
     const passwordField = fixture.debugElement.nativeElement.querySelector('input[name="password"]');
     const submitButton = fixture.debugElement.nativeElement.querySelector('button[type="submit"]');
 
-    usernameField.value = 'exampleUser';
-    passwordField.value = 'invalidPassword';
+    usernameField.value = 'admin';
+    passwordField.value = 'password';
 
     submitButton.click();
     fixture.detectChanges();
@@ -67,4 +67,4 @@ describe('LoginComponent', () => {
     const errorMessage = fixture.debugElement.nativeElement.querySelector('.error-message');
     expect(errorMessage).toBeFalsy();
   });
-});
+});     
