@@ -12,7 +12,7 @@ import { CommonModule } from '@angular/common';
 export class MenuComponent {
   public isLoggedIn: boolean = false;
   constructor(private authService: AuthService) {
-    this.isLoggedIn = this.authService.isLoggedIn;
+    this.isLoggedIn = this.authService.isLoggedIn();
 
     if(!this.isLoggedIn)
     {

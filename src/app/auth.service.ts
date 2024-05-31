@@ -1,18 +1,32 @@
-import { Injectable } from '@angular/core';
+import { DOCUMENT } from '@angular/common';
+import { Inject, Injectable } from '@angular/core';
 
 @Injectable({
   providedIn: 'root'
 })
 export class AuthService {
-  isLoggedIn = false;
-  constructor() { }
+  private localStorage;
+  constructor(@Inject(DOCUMENT) private document: Document) { 
+    this.localStorage = document.defaultView?.localStorage;
+  }
 
   login() 
   {
-    this.isLoggedIn = true;
+    if(this.localStorage)
+      this.localStorage.setItem('isLoggedIn', 'true');
   }
 
   logout() {
-    this.isLoggedIn = false;
+    if(this.localStorage)
+      this.localStorage.removeItem('isLoggedIn');
+  }
+
+  isLoggedIn(): boolean {
+    if(this.localStorage)
+    {
+      let token = this.localStorage.getItem('isLoggedIn');
+      return token != null && token.length > 0;
+    }
+    return false;
   }
 }

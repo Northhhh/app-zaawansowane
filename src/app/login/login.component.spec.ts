@@ -39,14 +39,12 @@ describe('LoginComponent', () => {
   });
 
   it('should display an error message for invalid login', () => {
-    const usernameField = fixture.debugElement.nativeElement.querySelector('input[name="username"]');
-    const passwordField = fixture.debugElement.nativeElement.querySelector('input[name="password"]');
-    const submitButton = fixture.debugElement.nativeElement.querySelector('button[type="submit"]');
+    component.formData = {
+      username: 'admin',
+      password: 'passworde',
+    }
 
-    usernameField.value = 'admin';
-    passwordField.value = 'password';
-
-    submitButton.click();
+    component.login();
     fixture.detectChanges();
 
     const errorMessage = fixture.debugElement.nativeElement.querySelector('.error-message');
@@ -54,14 +52,12 @@ describe('LoginComponent', () => {
   });
 
   it('should log in for valid username and password', () => {
-    const usernameField = fixture.debugElement.nativeElement.querySelector('input[name="username"]');
-    const passwordField = fixture.debugElement.nativeElement.querySelector('input[name="password"]');
-    const submitButton = fixture.debugElement.nativeElement.querySelector('button[type="submit"]');
+    component.formData = {
+      username: 'admin',
+      password: 'password',
+    }
 
-    usernameField.value = 'admin';
-    passwordField.value = 'password';
-
-    submitButton.click();
+    component.login();
     fixture.detectChanges();
 
     const errorMessage = fixture.debugElement.nativeElement.querySelector('.error-message');
