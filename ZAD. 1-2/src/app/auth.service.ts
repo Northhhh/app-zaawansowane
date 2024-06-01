@@ -1,12 +1,13 @@
 import { DOCUMENT } from '@angular/common';
 import { Inject, Injectable } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Injectable({
   providedIn: 'root'
 })
 export class AuthService {
   private localStorage;
-  constructor(@Inject(DOCUMENT) private document: Document) { 
+  constructor(@Inject(DOCUMENT) private document: Document,  private router: Router) { 
     this.localStorage = document.defaultView?.localStorage;
   }
 
@@ -18,7 +19,10 @@ export class AuthService {
 
   logout() {
     if(this.localStorage)
-      this.localStorage.removeItem('isLoggedIn');
+      {
+        this.localStorage.removeItem('isLoggedIn');
+        this.router.navigate(['']);
+      }
   }
 
   isLoggedIn(): boolean {

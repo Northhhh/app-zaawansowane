@@ -19,20 +19,18 @@ export class LoginComponent {
   };
 
   isLoginFailed = false;
-  loginCorrect = true;
-  passwordCorrect = true;
 
   constructor(private auth: AuthService, private router: Router) {}
 
   login() {
     if (this.formData.username === 'admin' && this.formData.password === 'password') {
+      console.log('Zalogowano pomyślnie');
       this.auth.login();
       this.isLoginFailed = false;
       this.router.navigate(['/dashboard']);
     } else {
+      console.log('Wystąpił błąd podczas logowania');
       this.isLoginFailed = true;
-      this.loginCorrect = this.formData.username === 'admin';
-      this.passwordCorrect = this.formData.password === 'password';
     }
   }
 }

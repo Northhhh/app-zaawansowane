@@ -13,10 +13,10 @@ export class MenuComponent {
   public isLoggedIn: boolean = false;
   constructor(private authService: AuthService) {
     this.isLoggedIn = this.authService.isLoggedIn();
+  }
 
-    if(!this.isLoggedIn)
-    {
-
-    }
+  logout()
+  {
+    this.authService.logout();
   }
 }

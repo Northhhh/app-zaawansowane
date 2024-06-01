@@ -6,7 +6,6 @@ import { MenuComponent } from '../menu/menu.component';
 
 import { AuthService } from '../auth.service';
 
-import { RouterTestingModule } from '@angular/router/testing';
 import { routes } from '../app.routes';
 import { provideRouter } from '@angular/router';
 import { By } from '@angular/platform-browser';
@@ -29,7 +28,7 @@ describe('DashboardComponent', () => {
 
       declarations: [],
 
-      providers: [AuthService, provideRouter(routes), { provide: ComponentFixtureAutoDetect, useValue: true }],
+      providers: [AuthService, provideRouter(routes)],
 
       imports: [DashboardComponent, MenuComponent],
 

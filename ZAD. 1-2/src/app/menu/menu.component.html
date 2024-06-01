@@ -1,5 +1,6 @@
 <nav *ngIf="isLoggedIn">
     <ul>
         <li><a routerLink="/dashboard">Dashboard</a></li>
+        <li><button (click)="logout()">Wyloguj</button></li>
     </ul>
 </nav>
