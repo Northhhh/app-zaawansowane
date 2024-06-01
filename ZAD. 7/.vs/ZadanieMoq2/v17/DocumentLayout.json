@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 6 - Moq2\\ZadanieMoq2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{534F0863-22CF-46C7-8544-B7499922BB56}|ZadanieMoq2\\ZadanieMoq2.csproj|d:\\systemfolders\\documents\\github\\programowaniezaawansowaneii\\zad 6 - moq2\\zadaniemoq2\\zadaniemoq2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534F0863-22CF-46C7-8544-B7499922BB56}|ZadanieMoq2\\ZadanieMoq2.csproj|solutionrelative:zadaniemoq2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{534F0863-22CF-46C7-8544-B7499922BB56}|ZadanieMoq2\\ZadanieMoq2.csproj|d:\\systemfolders\\documents\\github\\programowaniezaawansowaneii\\zad 6 - moq2\\zadaniemoq2\\zadaniemoq2\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{534F0863-22CF-46C7-8544-B7499922BB56}|ZadanieMoq2\\ZadanieMoq2.csproj|solutionrelative:zadaniemoq2\\orderprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderProcessor.cs",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 6 - Moq2\\ZadanieMoq2\\ZadanieMoq2\\OrderProcessor.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq2\\OrderProcessor.cs",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 6 - Moq2\\ZadanieMoq2\\ZadanieMoq2\\OrderProcessor.cs",
+              "RelativeToolTip": "ZadanieMoq2\\OrderProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:02:49.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 6 - Moq2\\ZadanieMoq2\\ZadanieMoq2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq2\\UnitTest1.cs",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 6 - Moq2\\ZadanieMoq2\\ZadanieMoq2\\UnitTest1.cs",
+              "RelativeToolTip": "ZadanieMoq2\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:02:49.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

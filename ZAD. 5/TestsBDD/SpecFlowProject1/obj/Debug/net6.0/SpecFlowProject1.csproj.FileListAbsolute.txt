@@ -1,0 +1,227 @@
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\LivingDoc.Dtos.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\testhost.exe
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\testhost.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.engine.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.engine.api.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.engine.core.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.deps.json
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.runtimeconfig.json
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.pdb
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\BoDi.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\FluentAssertions.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Gherkin.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.framework.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.csproj.AssemblyReference.cache
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.AssemblyInfoInputs.cache
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.AssemblyInfo.cs
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.csproj.CoreCompileInputs.cache
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.csproj.CopyComplete
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\refint\SpecFlowProject1.dll
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.pdb
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.genruntimeconfig.cache
+D:\VisualStudioRepos\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\ref\SpecFlowProject1.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\testhost.exe
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\LivingDoc.Dtos.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.engine.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.engine.api.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.engine.core.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\testhost.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.deps.json
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.runtimeconfig.json
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlowProject1.pdb
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\BoDi.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\FluentAssertions.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Gherkin.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\nunit.framework.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\TechTalk.SpecFlow.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\SpecFlow.Internal.Json.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.csproj.AssemblyReference.cache
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.AssemblyInfoInputs.cache
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.AssemblyInfo.cs
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.csproj.CoreCompileInputs.cache
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.sourcelink.json
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlow.C8D1E9DD.Up2Date
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\refint\SpecFlowProject1.dll
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.pdb
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\SpecFlowProject1.genruntimeconfig.cache
+D:\SystemFolders\Documents\GitHub\ProgramowanieZaawansowaneII\Zad 4 - BDDTests\BDDTesty\SpecFlowProject1\obj\Debug\net6.0\ref\SpecFlowProject1.dll

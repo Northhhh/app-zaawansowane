@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|d:\\systemfolders\\documents\\github\\programowaniezaawansowaneii\\zad 5 - moq1\\zadaniemoq\\zadaniemoq.tests\\isomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|solutionrelative:zadaniemoq.tests\\isomeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|d:\\systemfolders\\documents\\github\\programowaniezaawansowaneii\\zad 5 - moq1\\zadaniemoq\\zadaniemoq.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|solutionrelative:zadaniemoq.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|d:\\systemfolders\\documents\\github\\programowaniezaawansowaneii\\zad 5 - moq1\\zadaniemoq\\zadaniemoq.tests\\mymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{936A2FBF-B0DC-40A9-AE6F-EC677AF42B4B}|ZadanieMoq.Tests\\ZadanieMoq.Tests.csproj|solutionrelative:zadaniemoq.tests\\mymodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyModule.cs",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\MyModule.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq.Tests\\MyModule.cs",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\MyModule.cs",
+              "RelativeToolTip": "ZadanieMoq.Tests\\MyModule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:43:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISomeService.cs",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\ISomeService.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq.Tests\\ISomeService.cs",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\ISomeService.cs",
+              "RelativeToolTip": "ZadanieMoq.Tests\\ISomeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:43:31.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ZadanieMoq.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\ProgramowanieZaawansowaneII\\Zad 5 - Moq1\\ZadanieMoq\\ZadanieMoq.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "ZadanieMoq.Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T11:43:31.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
